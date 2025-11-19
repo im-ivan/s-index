@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vite + Tailwindcss
 disponível em https://im-ivan.github.io/s-index
 
 ## colors
