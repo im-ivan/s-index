@@ -1,7 +1,7 @@
 # React + TypeScript + Vite
+disponível em https://im-ivan.github.io/s-index
 
-
-colors
+## colors
 #C0C0C0
 #000000
 #008080
